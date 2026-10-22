@@ -1,0 +1,15 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --Primary-Border-Radius-Border-Radius-Small: 3px;
+  /* Essentially a circle */
+  --Primary-Border-Radius-Border-Radius-Full: 999px;
+  --Primary-Border-Radius-Border-Radius-Large: 12px;
+  --Primary-Border-Radius-Border-Radius-Default: 5px;
+  /* No radius */
+  --Primary-Border-Radius-Border-Radius-None: 0px;
+  --Primary-Border-Radius-Border-Radius-Medium: 7px;
+}

@@ -1,0 +1,10 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --Primary-Shadow-Button-Shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  --Primary-Shadow-2: 0px 0px 1px 0px rgba(33, 37, 41, 0.08), 0px 2px 2px 0px rgba(33, 37, 41, 0.06);
+  --Primary-Shadow-1: 0px 0px 1px 0px rgba(33, 37, 41, 0.32), 0px 4px 6px 0px rgba(33, 37, 41, 0.2);
+}
